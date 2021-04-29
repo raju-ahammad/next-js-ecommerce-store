@@ -1,0 +1,9 @@
+.active {
+  color: blue !important;
+}
+
+.link__text {
+  text-decoration: none;
+  color: black;
+  margin-right: 20px;
+}
